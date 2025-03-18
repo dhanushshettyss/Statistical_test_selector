@@ -1,0 +1,28 @@
+
+# R / RStudio files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# macOS system files
+.DS_Store
+
+# Compiled or packaged files
+*.zip
+*.tar.gz
+*.tar
+*.gz
+
+# Shiny logs or cache (if any)
+.Rcache/
+.Rcheck/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Deployment artifacts
+*.RData
+*.html
+*.log
